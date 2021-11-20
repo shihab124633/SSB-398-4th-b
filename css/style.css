@@ -1,0 +1,122 @@
+.header{
+	min-height:90px;
+	background-color: black;
+}
+
+.container{
+	overflow: hidden;
+	border: 5px solid blue;
+}
+.blog{
+	float: left;
+	width: 60%;
+	min-height: 100px;
+	background-color: red;
+}
+.contact{
+	float: right;
+	width: 40%;
+	min-height: 100px;
+	background-color: green;
+}
+
+.wrapperone{
+    overflow: hidden;
+}
+.blogone{
+    min-height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.purple{
+    background-color: purple;
+}
+.cyan{
+    background-color: cyan;
+}
+.orange{
+    background-color: orange;
+}
+.wrapper{
+    overflow: hidden;
+}
+.box{
+    min-height: 100px;
+    width: 20%;
+    float: left;
+}
+.OrangeRed{
+    background-color: OrangeRed;
+}
+.MediumSeaGreen{
+    background-color: MediumSeaGreen;
+}
+.Lime{
+    background-color: Lime;
+}
+.Gold{
+    background-color: Gold;
+}
+.GoldenRod{
+	background-color: GoldenRod;
+}
+}
+.footer{
+	min-height: 80px;
+	background-color: yellow;
+	/*clear: both;*/
+}
+
+.boxone{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.box1{
+	width: 100px;
+	height: 100px;
+}
+.Teal{
+	background-color: Teal;
+}
+.Thistle{
+	background-color: Thistle;
+	margin: 100px;
+}
+.Turquoise{
+	background-color: Turquoise;
+}
+.Linen{
+	background-color: Linen;
+}
+.Ivory{
+	background-color: Ivory;
+	margin: 100px 50px 40px;
+}
+.Lavender{
+	background-color: Lavender;
+}
+.LemonChiffon{
+	background-color: LemonChiffon;
+}
+.LightCyan{
+	background-color: LightCyan;
+}
+.LightSalmon{
+	background-color: LightSalmon;
+	margin: 100px 50px 40px 10px;
+}
+
+.box-1{
+	width: 200px;
+	height: 200px;
+	background-color: Black;
+	padding: 10px;
+	border: 5px solid red;
+	margin: 20px;
+}
